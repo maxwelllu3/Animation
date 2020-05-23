@@ -1,6 +1,6 @@
 import Foundation
 import CanvasGraphics
-
+// Maxwell Lu's Culminating
 class Sketch : NSObject {
     
     // NOTE: Every sketch must contain an object of type Canvas named 'canvas'
